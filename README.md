@@ -1,1 +1,1 @@
-# fighr-game
+# fighting-game
